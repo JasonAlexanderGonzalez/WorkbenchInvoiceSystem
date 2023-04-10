@@ -1,3 +1,1 @@
-# billing_system_database_MySQL
-MySQL Workbench
-Only Database, not include a frontend graphic system
+First, we created the database named "modulo_de_facturas". Then, we used this database to create tables. Second, we created the following tables: "persona", "domicilio", "computo_equipo", "bitacora_tabla", "empleador", "cuenta_iban_empleador", "demandante", "telefono_demandante", "usuario_demandante", "facturas", "detalle", "bienes_tabla", "oferente", "telefono_oferente", "correo_oferente", and "moneda". Note that the table names are in Spanish, but we also provided the English equivalents in case users prefer to use them in English. Third, there is a file called "Consultas.sql" that contains five queries. Fourth, there is a file called "insertando datos en las tablas.sql" that allows inserting data into the specified table in the database.
